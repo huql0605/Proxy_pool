@@ -38,7 +38,7 @@ REDIS_HOST ='192.168.88.130'
 # redis port
 REDIS_PORT =6379
 # redis password, if no password, set it to None
-REDIS_PASSWORD = 'hu0605'
+REDIS_PASSWORD = ''
 # redis db, if no choice, set it to 0
 REDIS_DB = 2
 # redis connection string, like redis://[password]@host:port or rediss://[password]@host:port/0,
